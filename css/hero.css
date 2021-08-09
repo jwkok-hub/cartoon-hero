@@ -6,19 +6,21 @@ body{
 }
 
 header{
-	background-color: #d14635;
+	background-color: #E67E22;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h1, h2{
-	font-family: 'Press Start 2P', cursive;
+	font-family: 'Fjalla One', sans-serif;
 }
+
+/* header styles */
 
 header h1{
 	color: white;
-	font-size: 50px;
+	font-size: 30px;
 }
 
 header img{
@@ -39,23 +41,25 @@ main img{
 
 h2{
 	font-size: 30px;
-	color: #e70c19;
+	color: #E67E22;
 	margin: 40px 0 10px;
 }
 
 a{
-	color: #e70c19;
+	color: #E67E22;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px
 }
 a:hover{
 	color: white;
-	background-color: #483a94
+	background-color: #140B97
 }
 
 footer{
-	background-color: #d14635;
+	background-color: #E67E22;
 	text-align: center;
 	color: white;
-	padding: 50px;
+	padding: 10px;
 }
 
 footer p{
